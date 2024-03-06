@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello there!
+I make things
+
+![DaRealMD github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DaRealMDf&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+![DaRealMD github stats](https://github-readme-stats.vercel.app/api?username=DarealMD&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
